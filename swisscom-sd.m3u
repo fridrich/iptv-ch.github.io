@@ -140,7 +140,7 @@ rtp://239.186.64.170:10000
 rtp://239.186.64.180:10000
 #EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-name="ITV4" tvg-logo="https://i.imgur.com/DYI4IA2.png" tvg-chno="163" channel-id="163",itv4
 rtp://239.186.64.171:10000
-#EXTINF:-1 tvg-id="More4.uk@SD" tvg-name="More 4" tvg-logo="https://static.epg.best/gb/More4.uk.png" tvg-chno="167" channel-id="167",More4
+#EXTINF:-1 tvg-id="More4.uk@SD" tvg-name="More 4" tvg-logo="https://i.imgur.com/cx5YcAU.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
 #EXTINF:-1 tvg-id="SkyNewsInternational.uk@SD" tvg-name="Sky News International" tvg-logo="https://static.epg.best/gb/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky news international
 rtp://239.186.64.179:10000

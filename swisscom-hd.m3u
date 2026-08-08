@@ -168,7 +168,7 @@ rtp://239.186.70.189:10000
 rtp://239.186.70.150:10000
 #EXTINF:-1 tvg-id="ITVQuiz.uk@SD" tvg-name="ITV Quiz" tvg-logo="https://i.ibb.co/nNHVgbnM/ITVQuiz-uk.png" tvg-chno="164" channel-id="164",itvQuiz HD
 rtp://239.186.70.245:10000
-#EXTINF:-1 tvg-id="More4.uk@SD" tvg-name="More 4" tvg-logo="https://static.epg.best/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
+#EXTINF:-1 tvg-id="More4.uk@SD" tvg-name="More 4" tvg-logo="https://i.imgur.com/cx5YcAU.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World Japan" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" tvg-chno="168" channel-id="168",NHK World HD
 rtp://239.186.68.172:10000
